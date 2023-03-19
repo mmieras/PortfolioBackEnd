@@ -15,7 +15,7 @@ com\portfolio\mmieras\Controller\CEducacion.class
 com\portfolio\mmieras\Entity\Persona.class
 com\portfolio\mmieras\Service\SExperiencia.class
 com\portfolio\mmieras\Dto\dtoPersona.class
-com\portfolio\mmieras\MmierasApplication$1.class
+com\portfolio\mmieras\WebConfig.class
 com\portfolio\mmieras\Security\Repository\iRolRepository.class
 com\portfolio\mmieras\Security\Controller\AuthController.class
 com\portfolio\mmieras\Security\Dto\NuevoUsuario.class
